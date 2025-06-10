@@ -1,4 +1,4 @@
-// Regular function: simple function with no parameters
+// Regular function: simple function with no parameters 
 void greet() {
   print("Hello from a regular function!");
 }
@@ -15,6 +15,7 @@ int add(int a, int b) => a + b;
 void printDetails(String name, [int? age]) {
   print("Name: $name");
   if (age != null) {
+
     print("Age: $age");
   }
 }
