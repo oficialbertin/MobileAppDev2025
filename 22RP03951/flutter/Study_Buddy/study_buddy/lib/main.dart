@@ -9,6 +9,8 @@ void main() async {
   runApp(const StudyBuddyApp());
 }
 
+
+
 class StudyBuddyApp extends StatelessWidget {
   const StudyBuddyApp({Key? key}) : super(key: key);
 
